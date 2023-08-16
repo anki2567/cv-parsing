@@ -1,3 +1,4 @@
 DevOps Master Course
     AWS Solutions Architecture
     java
+    python
