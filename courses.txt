@@ -6,3 +6,4 @@ DevOps Master Course
 Terraform certification training
 Jenkins Training
 ArgoCD Training
+logic to send email
