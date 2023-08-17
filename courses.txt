@@ -7,3 +7,4 @@ Terraform certification training
 Jenkins Training
 ArgoCD Training
 logic to send email
+python code to send welcome msg to my friends
