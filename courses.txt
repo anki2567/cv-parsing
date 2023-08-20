@@ -9,3 +9,4 @@ ArgoCD Training
 logic to send email
 python code to send welcome msg to my friends
 This code is for task1
+We will send whatsapp message
